@@ -1,0 +1,64 @@
+[
+    {
+        "loan_id": 1001,
+        "name": "vinod",
+        "salary": 35000,
+        "loan_amount": 175000,
+        "emi": 3500.0,
+        "tenure": 0,
+        "balance": 0,
+        "status": "Cleared",
+        "next_due": "27-03-2026",
+        "history": [
+            {
+                "date": "27-11-2025",
+                "amount": 3500
+            },
+            {
+                "date": "27-12-2025",
+                "amount": 3500
+            },
+            {
+                "date": "27-01-2026",
+                "amount": 3500
+            },
+            {
+                "date": "27-02-2026",
+                "amount": 3500
+            },
+            {
+                "date": "26-10-2025",
+                "amount": 161000
+            }
+        ]
+    },
+    {
+        "loan_id": 1002,
+        "name": "vinod",
+        "salary": 35000,
+        "loan_amount": 175000,
+        "emi": 3500.0,
+        "tenure": 50.0,
+        "balance": 175000,
+        "status": "Ongoing",
+        "next_due": "27-11-2025",
+        "history": []
+    },
+    {
+        "loan_id": 1003,
+        "name": "shahsi",
+        "salary": 30000,
+        "loan_amount": 150000,
+        "emi": 3000.0,
+        "tenure": 30.0,
+        "balance": 90000,
+        "status": "Ongoing",
+        "next_due": "26-11-2025",
+        "history": [
+            {
+                "date": "26-10-2025",
+                "amount": 60000
+            }
+        ]
+    }
+]
